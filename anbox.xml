@@ -11,11 +11,11 @@
     <remove-project name="platform/hardware/libhardware_legacy" />
     <remove-project name="platform/system/core" />
     <remove-project name="platform/system/netd" />
-    -->
     <remove-project name="device/generic/x86" />
     <remove-project name="device/generic/x86_64" />
     <remove-project name="device/generic/goldfish" />
     <remove-project name="device/generic/goldfish-opengl" />
+    -->
 
     <remove-project name="device/google/cuttlefish"/>
     <remove-project name="device/google/cuttlefish_common"/>
@@ -39,5 +39,5 @@
     -->
 
     <!-- Our own components -->
-    <project path="vendor/anbox" name="anbox" remote="anbox" revision="master" />
+    <project path="vendor/anbox" name="anbox" remote="anbox"/>
 </manifest>
