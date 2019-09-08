@@ -29,6 +29,5 @@
     -->
 
     <!-- Our own components -->
-    <project path="device/anbox" name="device_anbox" remote="anbox" revision="master" />
-    <project path="anbox" name="anbox" remote="anbox" revision="master" />
+    <project path="vendor/anbox" name="anbox" remote="anbox" revision="master" />
 </manifest>
