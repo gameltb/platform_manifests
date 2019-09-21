@@ -39,5 +39,5 @@
     -->
 
     <!-- Our own components -->
-    <project path="vendor/anbox" name="anbox" remote="anbox"/>
+    <project path="vendor/anbox" name="anbox" remote="anbox" revision="anbox-emu-29"/>
 </manifest>
